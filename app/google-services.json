@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "506798056883",
+    "project_id": "testanalytics-cbe12"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506798056883:android:cb9e2e12d7650cf7",
+        "android_client_info": {
+          "package_name": "es.pamp.testanalytics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0JUf9SYpL_UGDfDgdVrSs_1c8LlGfl1Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-97034389-3"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
